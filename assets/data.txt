@@ -1,0 +1,20 @@
+Andy you are a star,The Killers,Hot fuss,rock,andy-you-are-a-star.mp3,hot-fuss.png
+Change your mind,The Killers,Hot fuss,rock,change-your-mind.mp3,hot-fuss.png
+Despacito,Luis Fonsi,Vida,reggaeton,despacito.mp3,vida.png
+El muro,Daddy Yankee,Barrio fino,reggaeton,el-muro.mp3,no file
+Forbidden love,Madonna,Confessions on the dance floor,pop,forbidden-love.mp3,confessions-on-the-dance-floor.png
+Frozen,Madonna,Ray of light,pop,frozen.mp3,ray-of-light.png
+Gasolina,Daddy Yankee,Barrio fino,reggaeton,gas.mp3,no file
+I love New York,Madonna,Confessions on the dance floor,pop,i-love-new-york.mp3,confessions-on-the-dance-floor.png
+Jump,Madonna,Confessions on the dance floor,pop,jump.mp3,confessions-on-the-dance-floor.png
+Little star,Madonna,Ray of light,pop,little-star.mp3,ray-of-light.png
+Lo que pasó pasó,Daddy Yankee,Barrio fino,reggaeton,lo-que-paso-paso.mp3,no file
+Night train,Guns and Roses,Appetite for destruction,rock,night-train.mp3,appetite-for-destruction.png
+Paradise city,Guns and Roses,Appetite for destruction,rock,paradise-city.mp3,appetite-for-destruction.png
+Since i don't have you,Guns and Roses,The spaghetti incident,rock,since-i-dont-have-you.mp3,the-spaghetti-incident.png
+Sola,Luis Fonsi,Vida,reggaeton,no file,vida.png
+This love,Taylor Swift,1989,pop,this-love.mp3,1989.png
+Welcome to New York,Taylor Swift,1989,pop,welcome-to-new-york,1989.png
+Welcome to the family,Avenged Sevenfold,Nightmare,metal,welcome-to-the-family.mp3,nightmare.png
+Welcome to the jungle,Guns and Roses,Appetite for destruction,rock,welcome-to-the-jungle.mp3,appetite-for-destruction.png
+When we where young,The Killers,Sam's town,rock,when-we-were-young.mp3,no file
